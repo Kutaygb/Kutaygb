@@ -1,6 +1,6 @@
 [discord]: https://discord.com/users/340162404551884810
 [bmc]: https://www.buymeacoffee.com/kutaygb
-[website]: https://kutaygb.xyz
+[website]: https://kutay.dev
 [mail]: mailto:kutaygb@gmail.com?body=Merhaba
 
 ### Welcome to my GitHub profile 
@@ -18,7 +18,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][discord]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/buymeacoffee.svg" align="left" />][bmc]
-[<img  width="22" src="https://kutaygb.xyz/favicon.png" align="left" />][website]
+[<img  width="22" src="https://kutay.dev/favicon.png" align="left" />][website]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][mail]
 <br/><br/>
 
