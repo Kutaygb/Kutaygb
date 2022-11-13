@@ -1,7 +1,7 @@
 [discord]: https://discord.com/users/340162404551884810
 [bmc]: https://www.buymeacoffee.com/kutaygb
 [website]: https://kutay.dev
-[mail]: mailto:kutaygb@gmail.com?body=Merhaba
+[mail]: mailto:Kutaygb@protonmail.com
 
 ### Welcome to my GitHub profile 
 
