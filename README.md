@@ -28,8 +28,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kutaygb&show_icons=true&theme=tokyonight"></img>
 </details>
 
+
 <details>
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutaygb&row=1&column=1&layout=default" >
 </details>
 <br/>
+
+```bash
+nslookup -q=txt hi.kutay.dev
+```
