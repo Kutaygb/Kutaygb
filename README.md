@@ -13,7 +13,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/kutaygb?style=social)
 ![visitors](https://komarev.com/ghpvc/?username=Kutaygb)
 
-[![Spotify](https://novatorem-kutaygb.vercel.app/api/spotify)](https://open.spotify.com/user/r5e9k28pmdxvi316u71jjtbmz)
+![LastFM](https://lastfm-recently-played-readme-nine.vercel.app/api?user=Kutaygb)
+
 ### Reach out to me :card_index:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][discord]
