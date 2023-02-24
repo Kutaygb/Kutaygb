@@ -19,7 +19,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][discord]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/buymeacoffee.svg" align="left" />][bmc]
-[<img  width="22" src="https://kutay.dev/favicon.png" align="left" />][website]
+[<img  width="22" src="https://kutay.dev/icon.png" align="left" />][website]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][mail]
 <br/><br/>
 
