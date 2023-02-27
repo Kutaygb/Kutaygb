@@ -1,41 +1,27 @@
-[discord]: https://discord.com/users/340162404551884810
-[bmc]: https://www.buymeacoffee.com/kutaygb
-[website]: https://kutay.dev
-[mail]: mailto:Kutaygb@protonmail.com
-
-### Welcome to my GitHub profile 
-
-<img src="https://cdn.r10.net/image.php?u=156214" align="right" width="300" height="300">
-
-##
-
-[![GitHub followers](https://img.shields.io/github/followers/kutaygb?style=social)](https://github.com/kutaygb?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/kutaygb?style=social)
-![visitors](https://komarev.com/ghpvc/?username=Kutaygb)
-
-![LastFM](https://lastfm-recently-played-readme-nine.vercel.app/api?user=Kutaygb)
-
-### Reach out to me :card_index:
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][discord]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/buymeacoffee.svg" align="left" />][bmc]
-[<img  width="22" src="https://kutay.dev/icon.png" align="left" />][website]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][mail]
-<br/><br/>
-
-<br/>
+<div align="center">
+  <h1>Welcome to my GitHub profile</h1>
+  <img src="https://cdn.r10.net/image.php?u=156214" align="center" width="150" height="150">
+</p>
+<p align="center">
+  <a href="https://github.com/kutaygb?tab=followers">
+    <img src="https://img.shields.io/github/followers/kutaygb?style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/kutaygb?tab=stars">
+    <img src="https://img.shields.io/github/stars/kutaygb?style=social" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kutaygb" alt="visitors">
+</p>
+<p align="center">
+  <a href="https://discord.com/users/340162404551884810"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.buymeacoffee.com/kutaygb"><img src="https://img.shields.io/badge/-BuyMeACoffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://kutay.dev"><img src="https://img.shields.io/badge/-Website-663399?style=flat&logo=Firefox&logoColor=white" alt="Website"></a>
+  <a href="mailto:Kutaygb@protonmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Protonmail&logoColor=white" alt="Email"></a>
+</p>
+<p align="center">
+  <img src="https://lastfm-recently-played-readme.vercel.app/api?user=Kutaygb&count=4" alt="Last.fm">
+</p>
 <details>
-<summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kutaygb&show_icons=true&theme=tokyonight"></img>
+  <summary> :bulb: Github Stats </summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=kutaygb&show_icons=true&theme=tokyonight">
 </details>
 
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutaygb&row=1&column=1&layout=default" >
-</details>
-<br/>
-
-```bash
-nslookup -q=txt hi.kutay.dev
-```
