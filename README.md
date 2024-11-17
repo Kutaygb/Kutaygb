@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kutaygb" alt="visitors">
 </p>
 <p align="center">
-  <a href="https://discord.com/users/340162404551884810"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.buymeacoffee.com/kutaygb"><img src="https://img.shields.io/badge/-BuyMeACoffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   <a href="https://kutay.dev"><img src="https://img.shields.io/badge/-Website-663399?style=flat&logo=Firefox&logoColor=white" alt="Website"></a>
   <a href="mailto:Kutaygb@protonmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Protonmail&logoColor=white" alt="Email"></a>
 </p>
